@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplication IMC</string>
+    <string name="titulo">title</string>
+    <string name="peso">weight (kg)</string>
+    <string name="estatura">height (cm)</string>
+    <string name="calcular">Calculator IMC</string>
+    <string name="resultado">result</string>
+    <string name="idmasa">body mass index</string>
+    <string name="clasicacion">classification</string>
+    <string name="acercade1">About</string>
+    <string name="salir">Exit</string>
+    <string name="numer">The number must be greater than zero</string>
+    <string name="ind">The body mass index is :</string>
+    <string name="bpeso">Under Weight</string>
+    <string name="delsevera">Severe thinness</string>
+    <string name="delmodera">Moderate thinness</string>
+    <string name="delleve">Light thinness</string>
+    <string name="sopre">Overweight</string>
+    <string name="obe">Obesity</string>
+    <string name="obemor">Morbid  Obesity</string>
+    <string name="oleve">Obesity mild</string>
+    <string name="omedia">Average Obesity</string>
+    <string name="nocampo">Empty fields are not allowed</string>
+</resources>

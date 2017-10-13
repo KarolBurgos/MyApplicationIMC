@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppIMC</string>
+    <string name="acercade1">Acerca de</string>
+    <string name="calcular">Calcular IMC</string>
+    <string name="clasicacion">Clasificación</string>
+    <string name="estatura">Estatura</string>
+    <string name="idmasa">Indice de masa corporal</string>
+    <string name="peso">Peso</string>
+    <string name="resultado">Resultado</string>
+    <string name="titulo">Titulo</string>
+    <string name="salir">Salir</string>
+    <string name="numer">El numero debe ser mayor a cero</string>
+    <string name="ind">El indice de masa corporal es:</string>
+    <string name="bpeso">Bajo Peso</string>
+    <string name="delsevera">Delgadez Severa</string>
+    <string name="delmodera">Delgadez Moderada</string>
+    <string name="delleve">Delgadez Leve</string>
+    <string name="sopre">Sobrepeso</string>
+    <string name="obe">Obesidad</string>
+    <string name="obemor">Obesidad Morbida</string>
+    <string name="oleve">Obesidad leve</string>
+    <string name="omedia">Obesidad Media</string>
+    <string name="nocampo">No se permiten campos vacios</string>
+</resources>
